@@ -1,1 +1,5 @@
-Olá, conheça o Feature-1. O aplicativo garante ser melhor que a Feature-x 
+Olá, conheça o Feature-1. O aplicativo garante ser melhor que a Feature-x. 
+
+Nome: Henrique Gomes de Varga 
+
+Turma: TDS-22-2
